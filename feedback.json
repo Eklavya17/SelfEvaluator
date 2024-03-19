@@ -1,0 +1,35 @@
+[
+    {
+        "Question": "Prompt 1",
+        "Response": [
+            "This is a sample response line 1.",
+            "This is a sample response line 2. This line contains an error.",
+            "This is a sample response line 3."
+        ],
+        "First error observation": 1,
+        "User Feedback": "first",
+        "Content-Type": "coding"
+    },
+    {
+        "Question": "Prompt 2",
+        "Response": [
+            "This is a sample response line 1.",
+            "This is a sample response line 2. This line contains an error.",
+            "This is a sample response line 3."
+        ],
+        "First error observation": 2,
+        "User Feedback": "second",
+        "Content-Type": "coding"
+    },
+    {
+        "Question": "Prompt 1",
+        "Response": [
+            "This is a sample response line 1.",
+            "This is a sample response line 2. This line contains an error.",
+            "This is a sample response line 3."
+        ],
+        "First error observation": 11,
+        "User Feedback": "1",
+        "Content-Type": "coding"
+    }
+]
